@@ -1,6 +1,6 @@
 # git-commands
 
-1. cteated repository git-demo
+1. created repository git-demo
 2. added branch feature1
 3. executed all necessary commands 
 4. committed all to remote origin and added pull-request for review by sergeykudelin
